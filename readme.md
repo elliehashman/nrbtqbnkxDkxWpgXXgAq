@@ -1,4 +1,4 @@
-Rendu du revoir Terraform Azure Security Cloud
+Rendu du devoir Terraform Azure Security Cloud
 
 Hash du main.tf : 
 Algorithm       Hash                                                            
